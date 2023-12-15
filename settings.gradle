@@ -1,0 +1,4 @@
+rootProject.name = 'SimpleKafka'
+include 'producer'
+include 'consumer'
+
